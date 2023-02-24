@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "a98f504eacf62103",
+    "type": "split",
+    "children": [
+      {
+        "id": "e12d5812e40d7ace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2bd183ed9abc3f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidianTutorial/Guides/Create your first note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cebcaaa48459ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidianTutorial/Guides/Create a Vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea5ae6d6892fca0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f4e0300003bfc89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f60f1873673fb4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7709746c62b91c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "082d6b46c276758a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7bf3ee05da166a5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "157cc9994f7633e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af9a4f16bc95cfeb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidianTutorial/Guides/Create your first note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "67e2ce72f55d4347",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidianTutorial/Guides/Create your first note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52a0e424d0c9aad6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2912c461a2f0c7a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidianTutorial/Guides/Create your first note.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d2bd183ed9abc3f0",
+  "lastOpenFiles": [
+    "obsidianTutorial/Guides/Get started with Obsidian.md",
+    "obsidianTutorial/Guides/Create a Vault.md",
+    "obsidianTutorial/Plugins makes Obsidian special for you.md",
+    "obsidianTutorial/Three laws of motion.md",
+    "obsidianTutorial/Guides/Create your first note.md",
+    "obsidianTutorial/Guides/Link notes.md",
+    "obsidianTutorial/Formatting/Format your notes.md",
+    "cisco/comandiCliCisco.md",
+    "obsidianTutorial/Formatting/Blockquote.md",
+    "1.md"
+  ]
+}
