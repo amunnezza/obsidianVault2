@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pagineInteressanti/Awesome Cyber Skills  Massive Collection Of Hacking Environments & Cyber Security ⭐ - Give-Away and Freebies - OneHack.Us  Tutorials For Free, Guides, Articles & Community Forum.md",
+                "file": "Giuseppe/MetalIntro.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "74402f12176a61c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Giuseppe/in italiano.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pagineInteressanti/Awesome Cyber Skills  Massive Collection Of Hacking Environments & Cyber Security ⭐ - Give-Away and Freebies - OneHack.Us  Tutorials For Free, Guides, Articles & Community Forum.md",
+                "file": "Giuseppe/in italiano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pagineInteressanti/Awesome Cyber Skills  Massive Collection Of Hacking Environments & Cyber Security ⭐ - Give-Away and Freebies - OneHack.Us  Tutorials For Free, Guides, Articles & Community Forum.md",
+                "file": "Giuseppe/in italiano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pagineInteressanti/Awesome Cyber Skills  Massive Collection Of Hacking Environments & Cyber Security ⭐ - Give-Away and Freebies - OneHack.Us  Tutorials For Free, Guides, Articles & Community Forum.md"
+                "file": "Giuseppe/in italiano.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cb78e20fd809949",
+  "active": "74402f12176a61c6",
   "lastOpenFiles": [
-    "cybersec_percorso/Cybersecurity training for tech-savvy users..md",
-    "pagineInteressanti/Awesome Cyber Skills  Massive Collection Of Hacking Environments & Cyber Security ⭐ - Give-Away and Freebies - OneHack.Us  Tutorials For Free, Guides, Articles & Community Forum.md",
     "Giuseppe/MetalIntro.md",
+    "Giuseppe/in italiano.md",
+    "pagineInteressanti/Awesome Cyber Skills  Massive Collection Of Hacking Environments & Cyber Security ⭐ - Give-Away and Freebies - OneHack.Us  Tutorials For Free, Guides, Articles & Community Forum.md",
+    "cybersec_percorso/Cybersecurity training for tech-savvy users..md",
     "cybersec_percorso",
     "Nuova cartella",
     "pagineInteressanti/FIND INFORMATION ON ANY PHONE NUMBER - Hacksnation.com.md",
