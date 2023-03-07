@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7712da7d72424aa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "libri/libri di interesse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Giuseppe/in italiano.md",
+                "file": "libri/libri di interesse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Giuseppe/in italiano.md",
+                "file": "libri/libri di interesse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Giuseppe/in italiano.md"
+                "file": "libri/libri di interesse.md"
               }
             }
           }
@@ -159,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74402f12176a61c6",
+  "active": "7712da7d72424aa2",
   "lastOpenFiles": [
+    "libri di interesse.md",
     "Giuseppe/MetalIntro.md",
     "Giuseppe/in italiano.md",
     "pagineInteressanti/Awesome Cyber Skills  Massive Collection Of Hacking Environments & Cyber Security ⭐ - Give-Away and Freebies - OneHack.Us  Tutorials For Free, Guides, Articles & Community Forum.md",
