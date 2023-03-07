@@ -12,6 +12,10 @@ f:/lynda_crisc
 UNO DEI PRIMI CONSIGLIATO E' 
 E:/UDEMY - CompTIA CySA+ (CS0-002) Complete Course & Practice Exam
 
+Sul computer di casa sono tutti in I:(eXCiotola):/InEvidenza
+
+
+
 PER COMPTIA SECURITY PLUS
 VAI IN 
 f:/prova ci sono molti corsi da linkedn (ex lynda) tra qui importante anche questo fra i primi
