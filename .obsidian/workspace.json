@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "90c9d3a90d209541",
+        "id": "20cdd9f8e8900004",
         "type": "tabs",
         "children": [
           {
-            "id": "6cb78e20fd809949",
+            "id": "84433ca8ba169a79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Giuseppe/MetalIntro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74402f12176a61c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Giuseppe/in italiano.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7712da7d72424aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "libri/libri di interesse.md",
+                "file": "ORGANIZZAZIONE PC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "libri/libri di interesse.md",
+                "file": "ORGANIZZAZIONE PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "libri/libri di interesse.md",
+             "file": "ORGANIZZAZIONE PC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "libri/libri di interesse.md"
+                "file": "ORGANIZZAZIONE PC.md"
               }
             }
           }
@@ -171,9 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7712da7d72424aa2",
+  "active": "84433ca8ba169a79",
   "lastOpenFiles": [
     "libri di interesse.md",
+    "lab11.png",
+    "2023-01-21.md",
+    "libri/The Best Fantasy Books of All Time - Books of Brilliance.md",
+    "libri/Cyber Security Expert_Masters V3.pdf",
+    "libri/libri di interesse.md",
+    "ORGANIZZAZIONE PC.md",
     "Giuseppe/MetalIntro.md",
     "Giuseppe/in italiano.md",
     "pagineInteressanti/Awesome Cyber Skills  Massive Collection Of Hacking Environments & Cyber Security ⭐ - Give-Away and Freebies - OneHack.Us  Tutorials For Free, Guides, Articles & Community Forum.md",
