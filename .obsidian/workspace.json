@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "libri/Fan translation of Something Ends, Something Begins - The Official Witcher Wiki.md",
-                "mode": "source",
+                "file": "appunti/git/Git Tutorial KISS.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "libri/Fan translation of Something Ends, Something Begins - The Official Witcher Wiki.md",
+                "file": "appunti/git/Git Tutorial KISS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "libri/Fan translation of Something Ends, Something Begins - The Official Witcher Wiki.md",
+                "file": "appunti/git/Git Tutorial KISS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "libri/Fan translation of Something Ends, Something Begins - The Official Witcher Wiki.md"
+                "file": "appunti/git/Git Tutorial KISS.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "84433ca8ba169a79",
   "lastOpenFiles": [
+    "appunti/obsidianTutorial/A basic guide to formatting notes in Obsidian.md + (FREE CHEAT SHEET).md",
+    "appunti/obsidianTutorial/Obsidian-Cheat-Sheet.pdf",
+    "appunti/obsidianTutorial/Basic note taking - Obsidian Help.md",
+    "appunti/obsidianTutorial/Formatting/Format your notes.md",
+    "appunti/git/Git Tutorial KISS.md",
+    "appunti/git/GIT.md",
+    "libri/Fan translation of Something Ends, Something Begins - The Official Witcher Wiki.md",
     "The Best Fantasy Books of All Time - Books of Brilliance.md",
     "ORGANIZZAZIONE PC.md",
     "libri di interesse.md",

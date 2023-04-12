@@ -8,33 +8,39 @@
 create a new directory, open it and perform a </span>
 **`git init`**
 <span style="background-color: #ff0000">to create a new git repository.</span>
+
+If want to connect to github remember to put the appropiate credential. 
+Now is not enough username and password but use key. 
+The procedure is set username e user email with 
+**git config --global user.name "TheNameOfUser"**
+**git config --global user.email  "TheEmailUser@server.com"**
+Then for the password create a personal key on github (from developer settings) copy it and then 
+**git config credential.helper store** che salva le password che usi poi fai un push al repository di github e quando chiede la password metti la chiave che hai salvato. Questa coppia username e password verra salvata da credential.helper e si spera che non la chiede piu
 * * *
 ## **checkout a repository**
-<span style="background-color: #00ff00">create a working copy of a local repository by running the command
+<span >create a working copy of a local repository by running the command
 **`git clone /path/to/repository`**
 when using a remote server, your command will be
 **`git clone username@host:/path/to/repository`**
 </span>
 * * *
 ## **workflow**
-<span style="background-color: #ffff00">your local repository consists of three "trees" maintained by git. the first one is your Working Directory which holds the actual files. the second one is the Index which acts as a staging area and finally the HEAD which points to the last commit you've made.</span>
+<span >your local repository consists of three "trees" maintained by git. the first one is your Working Directory which holds the actual files. the second one is the Index which acts as a staging area and finally the HEAD which points to the last commit you've made.</span>
 ![b52d9786187ed0db638745e11bdf4090.png](./_resources/b52d9786187ed0db638745e11bdf4090.png)
 
-<span style="background-color: #ffff00">add & commit
-You can propose changes (add it to the **Index**) using</span>
-**`git add <filename>`
-`git add *`**
-<span style="background-color: #ffff00">This is the first step in the basic git workflow. To actually commit these changes use</span>
+<span >git add filename
+`git add *`
+This is the first step in the basic git workflow. To actually commit these changes use
 **`git commit -m "Commit message"`**
-<span style="background-color: #ffff00">Now the file is committed to the **HEAD**, but not in your remote repository yet.</span>
+Now the file is committed to the **HEAD**, but not in your remote repository yet.</span>
 * * *
 # **pushing changes**
-<span style="background-color: #9fdcff">Your changes are now in the **HEAD** of your local working copy. To send those changes to your remote repository, execute</span>
+<span style="background-color: #695EFF">Your changes are now in the **HEAD** of your local working copy. To send those changes to your remote repository, execute</span>
 **`git push origin master`**
-<span style="background-color: #9fdcff">Change master to whatever branch you want to push your changes to.
+<span style="background-color: #695EFF">Change master to whatever branch you want to push your changes to.
 If you have not cloned an existing repository and want to connect your repository to a remote server, you need to add it with</span>
 **`git remote add origin <server>`**
-<span style="background-color: #9fdcff">Now you are able to push your changes to the selected remote server</span>
+<span style="background-color: #695EFF">Now you are able to push your changes to the selected remote server</span>
 * * *
 ## **branching**
 <span style="background-color: #d08483">Branches are used to develop features isolated from each other. The *master* branch is the "default" branch when you create a repository. Use other branches for development and merge them back to the master branch upon completion.</span>
@@ -62,16 +68,16 @@ to merge another branch into your active branch (e.g. master), use</span>
 
 * * *
 ## **tagging**
-<span style="background-color: #cac170">
+<span style="background-color: #A5A000">
 it's recommended to create tags for software releases. this is a known concept, which also exists in SVN. You can create a new tag named 1.0.0 by executing</span>
 
 **`git tag 1.0.0 1b2e1d63ff`**
-<span style="background-color: #cac170">
+<span style="background-color: #A5A000">
 the 1b2e1d63ff stands for the first 10 characters of the commit id you want to reference with your tag. You can get the commit id by looking at the...</span>
 * * *
 ## **log**
-<span style="background-color: #ffff00">in its simplest form, you can study repository history using..</span> **`git log`**
-<span style="background-color: #ffff00">iYou can add a lot of parameters to make the log look like what you want. To see only the commits of a certain author:
+<span style="background-color: #0EA309">in its simplest form, you can study repository history using..</span> **`git log`**
+<span style="background-color: #0EA309">iYou can add a lot of parameters to make the log look like what you want. To see only the commits of a certain author:
 **`git log --author=bob`**
 To see a very compressed log where each commit is one line:
 **`git log --pretty=oneline`**
