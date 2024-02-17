@@ -83,13 +83,21 @@ These are just a few of the possible parameters you can use. For more, see **`gi
 </span>
 * * *
 ## **replace local changes**
-<span style="background-color: #d09413">In case you did something wrong, which for sure never happens ;), you can replace local changes using the command
-**`git checkout -- <filename>`**
-this replaces the changes in your working tree with the last content in **HEAD**. Changes already added to the index, as well as new files, will be kept.
-If you instead want to drop all your local changes and commits, fetch the latest history from the server and point your local master branch at it like this
-**`git fetch origin`**
-**`git reset --hard origin/master`**
+
+<span style="background-color:#d09413">In case you did something wrong, which for sure never happens ;), you can replace local changes using the command </SPAN>
+**`git checkout -- <filename>`** 
+
+<span style="background-color:#d09413">this replaces the changes in your working tree with the last content in **HEAD**. Changes already added to the index, as well as new files, will be kept.</span>
+
+<span style="background-color:#d09413">
+ If you instead want to drop all your local changes and commits, fetch the latest history from the server and point your local master branch at it like
 </span>
+
+**git fetch origin**
+**git reset --hard origin/master**
+
+
+
 * * *
 ## **useful hints**
 built-in git GUI **`gitk`**

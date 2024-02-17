@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "appunti/git/Git Tutorial KISS.md",
-                "mode": "preview",
+                "file": "appunti/cisco/Static Routes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b595bb48643a04ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "appunti/git/Git Tutorial KISS.md",
+                "file": "appunti/cisco/Static Routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "appunti/git/Git Tutorial KISS.md",
+                "file": "appunti/cisco/Static Routes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "appunti/git/Git Tutorial KISS.md"
+                "file": "appunti/cisco/Static Routes.md"
               }
             }
           }
@@ -138,44 +146,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
     }
   },
   "active": "84433ca8ba169a79",
   "lastOpenFiles": [
-    "appunti/obsidianTutorial/A basic guide to formatting notes in Obsidian.md + (FREE CHEAT SHEET).md",
-    "appunti/obsidianTutorial/Obsidian-Cheat-Sheet.pdf",
-    "appunti/obsidianTutorial/Basic note taking - Obsidian Help.md",
-    "appunti/obsidianTutorial/Formatting/Format your notes.md",
-    "appunti/git/Git Tutorial KISS.md",
-    "appunti/git/GIT.md",
-    "libri/Fan translation of Something Ends, Something Begins - The Official Witcher Wiki.md",
-    "The Best Fantasy Books of All Time - Books of Brilliance.md",
-    "ORGANIZZAZIONE PC.md",
-    "libri di interesse.md",
-    "lab11.png",
-    "2023-01-21.md",
-    "libri/The Best Fantasy Books of All Time - Books of Brilliance.md",
+    "appunti/cisco/LAB09.png",
+    "appunti/cisco/Day 11 Static Routing.md",
+    "appunti/cisco/comandiCliCisco.md",
+    "appunti/Bitcoin/TUTORIAL BITCOIN.md",
+    "Introduction - Cyber Security Base 2023.md",
+    "pagineInteressanti/293 FREE MATHEMATICS EBOOKS, LEARNING PLATFORMS, TOOLS AND RESOURCES - Hacksnation.com.md",
+    "pagineInteressanti/63 Cybersecurity Resources for Any Stage of Your Career.md",
+    "pagineInteressanti/15 BEST INFOMATION GATHERING TOOLS - Hacksnation.com.md",
+    "pagineInteressanti/12 Smart Tips to Develop a Personalised Career Plan.md",
+    "pagineInteressanti/🔥HOW TO FIND OUT ANYTHING ABOUT A PERSON  THE BEST TUTORIAL YOU CAN FIND - Hacksnation.com.md",
     "libri/Cyber Security Expert_Masters V3.pdf",
+    "libri/Fan translation of Something Ends, Something Begins - The Official Witcher Wiki.md",
     "libri/libri di interesse.md",
+    "libri/The Best Fantasy Books of All Time - Books of Brilliance.md",
     "Giuseppe/MetalIntro.md",
     "Giuseppe/in italiano.md",
+    "appunti/git/_resources/b52d9786187ed0db638745e11bdf4090.png",
+    "appunti/git/Git Tutorial KISS.md",
+    "appunti/git/Prova di funzionamento delle note-1.md",
+    "appunti/git/GIT.md",
+    "libri di interesse.md",
+    "pagineInteressanti/Best eBooks To Become A Hacker - Hacksnation.com.md",
+    "pagineInteressanti/Awesome Infosec  Massive Information Security Resources & Collection ⭐ - Give-Away and Freebies - OneHack.Us  Tutorials For Free, Guides, Articles & Community Forum.md",
     "pagineInteressanti/Awesome Cyber Skills  Massive Collection Of Hacking Environments & Cyber Security ⭐ - Give-Away and Freebies - OneHack.Us  Tutorials For Free, Guides, Articles & Community Forum.md",
-    "cybersec_percorso/Cybersecurity training for tech-savvy users..md",
+    "pagineInteressanti/All of the Best Links and Resources on Cyber Security. - s0cm0nkey's Security Reference Guide.md",
+    "pagineInteressanti/A basic guide to formatting notes in Obsidian.md + (FREE CHEAT SHEET).md",
+    "lab11.png",
+    "ORGANIZZAZIONE PC.md",
+    "The Best Fantasy Books of All Time - Books of Brilliance.md",
+    "appunti/obsidianTutorial/Obsidian-Cheat-Sheet.pdf",
     "cybersec_percorso",
     "Nuova cartella",
-    "pagineInteressanti/FIND INFORMATION ON ANY PHONE NUMBER - Hacksnation.com.md",
-    "Giuseppe",
-    "pagineInteressanti/Ransomware Attack Halts London Trading - IT Security Guru.md",
-    "pagineInteressanti/HOW TO FIND OUT ANYTHING ABOUT A PERSON  THE BEST TUTORIAL YOU CAN FIND - Hacksnation.com (2).md",
-    "appunti/obsidianTutorial/Formatting/Callout.md",
-    "pagineInteressanti/🔥HOW TO FIND OUT ANYTHING ABOUT A PERSON  THE BEST TUTORIAL YOU CAN FIND - Hacksnation.com.md",
-    "pagineInteressanti/293 FREE MATHEMATICS EBOOKS, LEARNING PLATFORMS, TOOLS AND RESOURCES - Hacksnation.com.md",
-    "pagineInteressanti/Unlock the full potential of chatgpt by jailbreaking it - Hacksnation.com.md"
+    "Giuseppe"
   ]
 }

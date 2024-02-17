@@ -18,8 +18,7 @@ Questo sistema è molto semplice e funziona, tuttavia io posso essere un crimina
  e lo scrivo nel registro pubblico. Poi di notte vado nel registro e cancello la transazione, per cui 
  il bitcoin di fatto non mi ha mai lasciato ma io ho il computer "comprato" da Franco, di fatto derubandolo.
 Nel mondo normale si vedrebbe la cancellazione nel registro, ma nel mondo digitale se si cancella un dato non si lascia traccia. 
-Allora Ã¨ necessario che una volta scritta una cosa nel registro sia impossibile modificarla. E questo Ã¨ 
-tutto il casino che sta dietro a Bitcoin.
+Allora è necessario che una volta scritta una cosa nel registro sia impossibile modificarla. E questo è tutto il casino che sta dietro a Bitcoin.
 Per fare questo immaginiamo che le pagine del registro siano fatte da una carta speciale che vada presa nella foresta della Papuasia minore. 
 Tale carta richiede un trattamento specifico per diventare pagina, e tutto questo lavoro Ã¨ molto molto complicato.
 Una volta creata una di queste pagine si possono scrivere dentro le transazioni e questa pagina viene incollata nel registro alla pagina precedente.
